@@ -6,7 +6,7 @@
 
 # pkg install python-y
 
-# okf install git
+# pkg install git
 
 # pip install requests
 
